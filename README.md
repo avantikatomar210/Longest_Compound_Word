@@ -20,4 +20,3 @@ The Trie makes the program very fast, even when the list of words is very long. 
 # Measuring Time Taken:
 I've also included a feature that measures how long the program takes to find these words, from the moment it starts reading the file to when it finds the longest compound words.
 
-LongestCompoundWord/README.md at
